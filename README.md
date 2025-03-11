@@ -18,5 +18,5 @@ This repository covers all the key concepts of Python programming, divided into 
 ## 🔧 How to Use This Repo?
 1. Clone this repository:
    ```sh
-   git clone https://github.com/YOUR-USERNAME/python-warrior.git
+   git clone https://github.com/olekkut/python-warrior.git
    ```
