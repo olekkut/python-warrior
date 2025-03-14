@@ -3,8 +3,8 @@
 # Wyświetl zdanie:
 # `Moje ulubione miasto to [miasto], które znajduje się w [kraj].`\
 
-favourite_city = input('Proszę wprowadzić ulubione miasto')
-favourite_country = input('Proszę wprowadzić ulubiony kraj')
+favourite_city = input('Proszę wprowadzić ulubione miasto: ')
+favourite_country = input('Proszę wprowadzić ulubiony kraj: ')
 
 
-# TODO print()
+print('Moje ulubione miasto to ', favourite_city, ', które znajduje się w ', favourite_country, '.', sep='')
